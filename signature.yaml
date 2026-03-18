@@ -1,0 +1,7 @@
+path: C:/Users/tanma/OneDrive/Desktop/Christ University/Trimester 3/DL/Lab/2548559_Lab4/signature
+
+train: images/train
+val: images/val
+
+nc: 1
+names: ['signature']
